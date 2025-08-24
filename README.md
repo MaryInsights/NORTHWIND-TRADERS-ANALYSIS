@@ -2,7 +2,7 @@
 This project explores the Northwind Traders sample database to uncover valuable insights into sales performance, customer behavior, and product trends. The analysis was conducted using SQL, with a focus on solving practical business questions that can support decision-making. This project is done MySQL.
 
 **DATA-EXPLORATION**
-1. **Order and Customer Insights.******
+1. **ORDER AND CUSTOMER INSIGHTS.**
 
 i. What are all the products, their unit prices, and the suppliers who provide them?
 
