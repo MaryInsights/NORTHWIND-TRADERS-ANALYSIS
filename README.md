@@ -3,10 +3,15 @@ This project explores the Northwind Traders sample database to uncover valuable 
 
 **DATA-EXPLORATION**
 1. **Order and Customer Insights.******
+
 i. What are all the products, their unit prices, and the suppliers who provide them?
+
 ii. What is the average unit price of all products?
+
 iii. Which customers are located in Germany?
+
 iv. What orders were made by the customer ALFKI?
+
 v. Which orders were made in 1997?
 
 2. **SALES INSIGHTS**
