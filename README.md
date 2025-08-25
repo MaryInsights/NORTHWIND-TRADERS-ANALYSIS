@@ -75,4 +75,14 @@ iv. Customers who ordered across multiple product categories in a single order d
 
 
 
+**CONNECT WITH ME**
+
+AUTHOUR: Mary Adisa
+
+Linkedin: https://www.linkedin.com/in/mary-adisa-dataanalyst?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Email: maryabiodunadisa@gmail.com
+
+
+
 
