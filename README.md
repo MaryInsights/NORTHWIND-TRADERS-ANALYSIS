@@ -38,6 +38,7 @@ iii. How can employees be ranked by the total number of orders they have process
 
 
 **KEY INSIGHTS**
+
 **ORDER AND CUSTOMER INSIGHTS.**
 
 i. The average unit price across all products gives a baseline for identifying outliers and high-margin products.
