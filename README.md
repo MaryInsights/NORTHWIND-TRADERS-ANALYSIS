@@ -39,6 +39,7 @@ iii. How can employees be ranked by the total number of orders they have process
 
 **KEY INSIGHTS**
 **ORDER AND CUSTOMER INSIGHTS.**
+
 i. The average unit price across all products gives a baseline for identifying outliers and high-margin products.
 
 i. Customers are spread across multiple regions, with Germany standing out as a notable market.
@@ -62,6 +63,7 @@ iv. A few products have never been ordered, highlighting possible overstock issu
 v. For many orders, the most expensive product drives a large share of the order value, suggesting premium product influence.
 
 **PROFITS ANALYSIS**
+
 i. Profit analysis shows that high-margin products significantly improve overall profitability, even with smaller volumes.
 
 ii. The top 3 most profitable customers account for a major share of company profits, reinforcing the need for strong relationship management.
